@@ -3,6 +3,7 @@
 # Install Brew Packages
 brew install python
 brew install tree
+brew install sevenzip
 
 # Install MacOS Applications
 brew install --cask google-chrome
