@@ -13,7 +13,7 @@ brew install --cask vlc
 brew install --cask clipy
 brew install --cask rectangle
 brew install --cask maccy
-
+brew install --cask ticktick
 
 # Install Source Code Pro Font
 brew tap homebrew/cask-fonts
