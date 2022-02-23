@@ -17,7 +17,8 @@ brew install --cask ticktick
 brew install --cask alfred
 brew install --cask spotify
 brew install --cask sublime-text
-
+brew install --cask karabiner-elements
+brew install --cask numi
 
 
 # Install Source Code Pro Font
