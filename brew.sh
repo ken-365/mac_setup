@@ -14,6 +14,11 @@ brew install --cask clipy
 brew install --cask rectangle
 brew install --cask maccy
 brew install --cask ticktick
+brew install --cask alfred
+brew install --cask spotify
+brew install --cask sublime-text
+
+
 
 # Install Source Code Pro Font
 brew tap homebrew/cask-fonts
