@@ -20,6 +20,7 @@ brew install --cask sublime-text
 brew install --cask numi
 brew install --cask qbittorrent
 brew install --cask cheatsheet
+brew install --cask alt-tab
 # brew install --cask betterzip
 
 # Install Source Code Pro Font
