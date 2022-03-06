@@ -22,9 +22,8 @@ brew install --cask qbittorrent
 brew install --cask cheatsheet
 brew install --cask alt-tab
 # brew install --cask betterzip
-brew install --cask activedock
 brew install --cask ubar
-https://www.trankynam.com/xtrafinder/
+
 
 # Install Source Code Pro Font
 brew tap homebrew/cask-fonts
