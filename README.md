@@ -10,3 +10,6 @@ https://github.com/romkatv/powerlevel10k#installation
 
 ## edit theme
 https://iterm2colorschemes.com/
+
+#### Screenshot app
+https://apps.apple.com/us/app/iscreen-shoter-screenshot-app/id1596559494?mt=12
