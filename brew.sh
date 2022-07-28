@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 # Install Brew Packages
-brew install python
 brew install tree
 brew install sevenzip
+
 
 # Install MacOS Applications
 brew install --cask raycast
@@ -17,6 +17,19 @@ brew install --cask sublime-text
 brew install --cask numi
 brew install --cask qbittorrent
 brew install --cask alt-tab
+
+
+# Development
+brew install --cask adoptopenjdk8
+brew install --cask adoptopenjdk11
+brew install git-gui
+brew install maven
+brew install python
+brew install scala
+brew install httpie
+brew install mysql
+brew install apache-spark
+brew install postgresql
 
 # Install Source Code Pro Font
 brew tap homebrew/cask-fonts
