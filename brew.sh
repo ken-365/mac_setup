@@ -17,7 +17,7 @@ brew install --cask sublime-text
 brew install --cask numi
 brew install --cask qbittorrent
 brew install --cask alt-tab
-
+brew install --cask shottr
 
 # Development
 brew install --cask adoptopenjdk8
