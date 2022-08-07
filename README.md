@@ -1,9 +1,12 @@
 # mac_setup
 
-## iterm
-https://iterm2.com/downloads.html
+## homebrew on terminal
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
-## zsh
+## then iterm
+brew install --cask iterm2
+
+## then zsh on iterm
 $ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ## power 10k
 https://github.com/romkatv/powerlevel10k#installation
