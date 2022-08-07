@@ -30,6 +30,8 @@ brew install httpie
 brew install mysql
 brew install apache-spark
 brew install postgresql
+brew install jq
+brew install tldr
 
 # Install Source Code Pro Font
 brew tap homebrew/cask-fonts
