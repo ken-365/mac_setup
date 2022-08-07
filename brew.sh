@@ -18,6 +18,9 @@ brew install --cask numi
 brew install --cask qbittorrent
 brew install --cask alt-tab
 brew install --cask shottr
+brew install --cask intellij-idea-ce
+brew install --cask dbeaver-community
+brew install --cask docker
 
 # Development
 brew install --cask adoptopenjdk8
