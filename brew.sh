@@ -16,7 +16,8 @@ brew install --cask numi
 brew install --cask qbittorrent
 brew install --cask alt-tab
 brew install --cask shottr
-
+brew install ffmpeg
+brew install youtube-dl
 
 # Development
 brew install --cask sourcetree
