@@ -17,7 +17,8 @@ brew install --cask qbittorrent
 brew install --cask alt-tab
 brew install --cask shottr
 brew install ffmpeg
-brew install youtube-dl
+brew install yt-dlp/taps/yt-dlp
+
 
 # Development
 brew install --cask sourcetree
