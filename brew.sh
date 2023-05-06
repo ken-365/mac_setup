@@ -27,6 +27,7 @@ brew install --cask dbeaver-community
 brew install --cask docker
 brew install --cask adoptopenjdk8
 brew install --cask adoptopenjdk11
+brew install --cask raycast
 brew install git-gui
 brew install maven
 brew install python
