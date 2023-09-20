@@ -8,14 +8,17 @@ brew install sevenzip
 brew install --cask raycast
 brew install --cask google-chrome
 brew install --cask visual-studio-code
-brew install --cask vlc
 brew install --cask ticktick
-brew install --cask spotify
 brew install --cask sublime-text
 brew install --cask numi
-brew install --cask qbittorrent
 brew install --cask alt-tab
 brew install --cask shottr
+brew install --cask rectangle
+brew install --cask dropzone
+
+brew install --cask spotify
+brew install --cask qbittorrent
+brew install --cask vlc
 brew install ffmpeg
 brew install yt-dlp/taps/yt-dlp
 
