@@ -15,6 +15,7 @@ brew install --cask alt-tab
 brew install --cask shottr
 brew install --cask rectangle
 brew install --cask dropzone
+brew install --cask dropshelf
 
 brew install --cask spotify
 brew install --cask qbittorrent
